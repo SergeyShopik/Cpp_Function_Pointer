@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\functionPointers\functionPointers\Source.cpp(94,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\HP\source\repos\functionPointers\functionPointers\Source.cpp(97,18): warning C4101: sizePrimeNums: неиспользованная локальная переменная
+C:\Users\HP\source\repos\functionPointers\functionPointers\Source.cpp(97,9): warning C4101: sizeDyn: неиспользованная локальная переменная
+C:\Users\HP\source\repos\functionPointers\functionPointers\Source.cpp(101,9): warning C4101: val1: неиспользованная локальная переменная
+C:\Users\HP\source\repos\functionPointers\functionPointers\Source.cpp(101,15): warning C4101: val2: неиспользованная локальная переменная
+  functionPointers.vcxproj -> C:\Users\HP\source\repos\functionPointers\Debug\functionPointers.exe
